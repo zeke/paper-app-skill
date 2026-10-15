@@ -13,3 +13,7 @@ npx skills add zeke/paper-app-skill
 The Paper desktop app has to be running for its MCP server to respond.
 
 See [AGENTS.md](AGENTS.md) for contributor notes.
+
+## More Skills
+
+Browse more skills at [zeke/skills](https://github.com/zeke/skills).
